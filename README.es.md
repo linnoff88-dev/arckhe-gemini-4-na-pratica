@@ -1,6 +1,6 @@
 # Gemini 4 en la práctica
 
-[![Gemini 4 en la práctica](guia/assets/banner.jpg)](https://inematds.github.io/gemini-4-na-pratica/guia/es/)
+[![Gemini 4 en la práctica](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/
 
 [PT](README.md) · [EN](README.en.md) · [ES](README.es.md)
 
@@ -8,7 +8,7 @@
 
 El proyecto reúne fuentes públicas, una comparación y un criterio de validación para elegir entre Gemini 4 Neon, Argon y Hydrogen en tareas de tu día a día. Solo necesitas un navegador para leer la guía.
 
-[Cómo empezar](https://inematds.github.io/gemini-4-na-pratica/guia/es/) · [Lee la comparación con fuentes (en portugués)](COMPARATIVO.md)
+[Cómo empezar](https://linnoff88-dev.github.io/ · [Lee la comparación con fuentes (en portugués)](COMPARATIVO.md)
 
 [Mira el análisis y el resumen](https://www.youtube.com/watch?v=iP57IDdL7e0) · [Ver el Short en YouTube](https://youtube.com/shorts/WEWkoZKwEcU)
 
