@@ -1,4 +1,4 @@
-# Gemini 4 na prÃ¡tica
+# Gemini 4 na prêÂ¡tica
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,34 +6,34 @@
 </div>
 
 
-[![Gemini 4 na prÃ¡tica](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/
+[![Gemini 4 na prêÂ¡tica](guia/assets/banner.jpg)](https://linnoff88-dev.github.io/
 
-[PT](README.md) Â· [EN](README.en.md) Â· [ES](README.es.md)
+[PT](README.md) êÂ· [EN](README.en.md) êÂ· [ES](README.es.md)
 
-## O que Ã©
+## O que êÂ©
 
-O projeto reÃºne fontes pÃºblicas, um comparativo e uma rÃ©gua de validaÃ§Ã£o para escolher entre Gemini 4 Neon, Argon e Hydrogen em tarefas do seu dia. VocÃª precisa apenas de um navegador para ler o guia.
+O projeto reêÂºne fontes pêÂºblicas, um comparativo e uma rêÂ©gua de validaêÂ§êÂ£o para escolher entre Gemini 4 Neon, Argon e Hydrogen em tarefas do seu dia. VocêÂª precisa apenas de um navegador para ler o guia.
 
-[Como comeÃ§ar](https://linnoff88-dev.github.io/ Â· [Leia o comparativo com fontes (em portuguÃªs)](COMPARATIVO.md)
+[Como comeêÂ§ar](https://linnoff88-dev.github.io/ êÂ· [Leia o comparativo com fontes (em portuguêÂªs)](COMPARATIVO.md)
 
-[Assista Ã  anÃ¡lise e ao resumo](https://www.youtube.com/watch?v=iP57IDdL7e0) Â· [Ver o Short no YouTube](https://youtube.com/shorts/WEWkoZKwEcU)
+[Assista êÂ  anêÂ¡lise e ao resumo](https://www.youtube.com/watch?v=iP57IDdL7e0) êÂ· [Ver o Short no YouTube](https://youtube.com/shorts/WEWkoZKwEcU)
 
-## Teste com algo que vocÃª precisa entregar
+## Teste com algo que vocêÂª precisa entregar
 
-> Use os mesmos comprovantes fictÃ­cios nos trÃªs modelos. PeÃ§a uma tabela com ID, data e valor. Marque duplicatas e itens sem valor. Confira o total e registre o tempo atÃ© a entrega validada.
+> Use os mesmos comprovantes fictêÂ­cios nos trêÂªs modelos. PeêÂ§a uma tabela com ID, data e valor. Marque duplicatas e itens sem valor. Confira o total e registre o tempo atêÂ© a entrega validada.
 
-## InstalaÃ§Ã£o tÃ©cnica
+## InstalaêÂ§êÂ£o têÂ©cnica
 
-O guia Ã© HTML estÃ¡tico. Abra o arquivo abaixo em um navegador. O laboratÃ³rio e o comparativo completo estÃ£o em portuguÃªs. [HTML](guia/index.html)
+O guia êÂ© HTML estêÂ¡tico. Abra o arquivo abaixo em um navegador. O laboratêÂ³rio e o comparativo completo estêÂ£o em portuguêÂªs. [HTML](guia/index.html)
 
-## O processo, do inÃ­cio ao fim
+## O processo, do inêÂ­cio ao fim
 
-DÃª aos trÃªs modelos os mesmos dados, ferramentas e limite de tentativas. Combine antes o que conta como pronto. Some o custo de todas as tentativas e divida apenas pelo nÃºmero de entregas que passaram.
+DêÂª aos trêÂªs modelos os mesmos dados, ferramentas e limite de tentativas. Combine antes o que conta como pronto. Some o custo de todas as tentativas e divida apenas pelo nêÂºmero de entregas que passaram.
 
-- [LaboratÃ³rio completo (em portuguÃªs)](laboratorio/protocolo.md)
+- [LaboratêÂ³rio completo (em portuguêÂªs)](laboratorio/protocolo.md)
 - [Baixar planilha CSV](laboratorio/tentativas.csv)
 - [Tarifas publicadas pelo Google](https://aistudio.google.com/docs/pricing)
-- [Ãndice geral de agentes](https://arena.ai/leaderboard/agent)
+- [êÂndice geral de agentes](https://arena.ai/leaderboard/agent)
 
 ---
 
